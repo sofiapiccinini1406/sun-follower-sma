@@ -3,6 +3,7 @@ Questo repository descrive il progetto **Sun Follower**, un innovativo sistema d
 
 ## L'Idea e il Funzionamento
 A differenza dei tradizionali sistemi sul mercato, **Sun Follower elimina l'uso di motori e schede elettroniche di controllo**. L'orientamento del pannello fotovoltaico avviene in modo completamente autonomo grazie a molle realizzate in **Shape Memory Alloys (SMA)**.
+<img width="562" height="656" alt="zoom pannello monoassiale bidirezionale" src="https://github.com/user-attachments/assets/e89582f0-ed7f-4c4d-925b-af79dc34525c" />
 
 Il funzionamento si basa su un principio fisico ed elettrico molto semplice:
 1. Sotto al pannello principale sono posizionati due pannelli solari più piccoli (uno a destra e uno a sinistra).
